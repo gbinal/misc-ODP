@@ -1,0 +1,31 @@
+[{
+    "title": "Clean Air Markets Clean Air Interstate Rule (CAIR) NOx Ozone Season Program Allowance Holdings",
+    "description": "Current allowance holdings for entities regulated under CAIR NOx Ozone Season cap and trade program ... power plants and other facilities",
+    "dataDictionary": "http:\/\/camddataandmaps.epa.gov\/gdm\/datamaps.pdf",
+    "accessURL": "http:\/\/www.epa.gov\/camdis01\/prepack\/allowances_cairos.zip",
+    "format": "ZIP",
+    "keywords": "Air Quality, Tradeable Permits, Air Pollution, EPA, environment, federal data download, power plants, federal datasets, AQ, cap and trade, NOx, ozone, facility, facilities",
+    "modified": "2009-09-15 00:00:00",
+    "organization": "Environmental Protection Agency",
+    "person": "Alexander Salpeter",
+    "mbox": "salpeter.alex@epa.gov",
+    "public": "",
+    "license": "",
+    "spatial": "Continental US",
+    "temporal": "real time"
+}, {
+    "title": "Tax Year 2006 SOI Exempt Organization Study",
+    "description": "Forms 990 and 990-EZ filed by IRC Section 501(c)(3)-(c)(9) organiztions for Tax Year 2006",
+    "dataDictionary": "http:\/\/www.irs.gov\/taxstats\/article\/0,,id=213562,00.html",
+    "accessURL": "http:\/\/www.irs.gov\/taxstats\/article\/0,,id=213562,00.html",
+    "format": "ASCII text",
+    "keywords": "nonprofit, charitable, tax-exempt, IRS, Statistics of Income, contribution, grant, Form 990",
+    "modified": "2009-08-03",
+    "organization": "Department of the Treasury",
+    "person": "Elizabeth Nelson",
+    "mbox": "elizabeth.a.nelson@irs.gov",
+    "public": "",
+    "license": "",
+    "spatial": "Global",
+    "temporal": "Returns filed January 2007 - December 2008"
+}]
